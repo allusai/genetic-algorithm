@@ -1,0 +1,214 @@
+{\rtf1\ansi\ansicpg1252\cocoartf1038\cocoasubrtf360
+{\fonttbl\f0\fnil\fcharset0 Monaco;}
+{\colortbl;\red255\green255\blue255;}
+\margl1440\margr1440\vieww9000\viewh8400\viewkind0
+\deftab720
+\pard\pardeftab720
+
+\f0\fs22 \cf0 Generation 0\
+zmwdsc dofp 0.0\
+jsimifbbrde 0.0\
+vuxzloepiyl 0.0\
+mnhrwaqklzz 0.0\
+dbispklaaxr 0.0\
+wcuquaqldyr 0.0\
+pmgoozttwfz 0.0\
+dfha achlqx 0.0\
+yiensxnhslp 0.0\
+nocrhdxjaot 0.0\
+lwkewimhzpu 0.0\
+cgobjdwwdtj 0.0\
+byxog lzalo 0.0\
+u bag  tegl 0.0\
+fnmuivjgzjc 0.0\
+pvkvyr eenk 0.0\
+nryipkwzttj 0.0\
+dcwknxzjpbg 0.0\
+qgvgjdxzjha 0.0\
+wswrwqdiznn 0.0\
+z iycaqnavh 0.0\
+uhheqjgxznw 0.0\
+xqitgrdifz  0.0\
+cwrdo gwvti 0.0\
+ajp  lywmxm 0.0\
+hbgrprfwsht 0.0\
+lsnnjmddgcr 0.0\
+mtsiogkqzyf 0.0\
+pnsqmleexjd 0.0\
+fwbmcvoixyb 0.0\
+taheqtidaqp 0.0\
+xnrdpgjlbro 0.0\
+lmqupnpugcz 0.0\
+xoveasubalj 0.0\
+bbmwenkjxol 0.0\
+xlbdocptlug 0.0\
+khsrlggqhnc 0.0\
+q wsziiocay 0.0\
+zqbotwzihpq 0.0\
+nwjnzoefldi 0.0\
+m mhowdcwyb 0.0\
+mglculjruvj 0.0\
+tonfnibdzvb 0.0\
+syv lcgxuw  0.0\
+wchxeikysar 0.0\
+cvtrqtaerkj 0.0\
+gdfxeplartt 0.0\
+rjhovzy njh 0.0\
+kksjwrcnabv 0.0\
+evlgxibdobs 0.0\
+syfpwrkf  q 0.0\
+zkfkwvlczkd 0.0\
+ahcrlpmhncr 0.0\
+jplobrba hh 0.0\
+onv qyjogcp 0.0\
+yq ll iwwwj 0.0\
+hizaettuetb 0.0\
+mhonrip oud 0.0\
+jawqcrch na 0.0\
+sepszmnqunw 0.0\
+jvh rvwitec 0.0\
+jgogylmuysa 0.0\
+erhmzbivxsn 0.0\
+ if jetgatc 0.0\
+unidtyinpqg 0.0\
+royqromjnmq 0.0\
+gltahckzosy 0.0\
+mhegjii t o 0.0\
+c rhnyupewk 0.09090909090909091\
+pibnfuoqglc 0.09090909090909091\
+vymfffewkgi 0.09090909090909091\
+czyyiuqskto 0.09090909090909091\
+tehhsqlhvap 0.09090909090909091\
+ghqupeklzfx 0.09090909090909091\
+km cxmrsyva 0.09090909090909091\
+qyh tzjniou 0.09090909090909091\
+kjqpjjgaujk 0.09090909090909091\
+lmudhmzrbkr 0.09090909090909091\
+cctrodwimia 0.09090909090909091\
+wmovmsdmdwi 0.09090909090909091\
+alkyqvkjikf 0.09090909090909091\
+iijsxbptcvz 0.09090909090909091\
+hlgqxguuxxy 0.09090909090909091\
+j kcfeecngc 0.09090909090909091\
+yanvlcpuvur 0.09090909090909091\
+ de nirnaya 0.09090909090909091\
+bxjgsdirtiy 0.09090909090909091\
+lrxx hyffrn 0.09090909090909091\
+wdqrcyzmhax 0.09090909090909091\
+qctqlbvc  q 0.09090909090909091\
+qdscuwtsvni 0.09090909090909091\
+yakyrnfiswk 0.09090909090909091\
+wmjgzabzzra 0.09090909090909091\
+spaomspie w 0.09090909090909091\
+uk korxozef 0.09090909090909091\
+ewpohpshskm 0.18181818181818182\
+umqrcppjqss 0.18181818181818182\
+ dx thiqsxo 0.18181818181818182\
+obgvqospa s 0.18181818181818182\
+rzm expumay 0.18181818181818182\
+------\
+\
+\
+Generation 1\
+ jepjjgnuja 0.0\
+cmyymuqmkto 0.0\
+tojrlpbhzvb 0.0\
+c kyrnfismk 0.0\
+yaudrmfrbwr 0.0\
+vwgffpehkkm 0.0\
+vbscxrpwnhz 0.0\
+fsbmjmddxyr 0.0\
+idscxbpsvuz 0.0\
+bxjqyomjtiy 0.0\
+ronvlcmdnuq 0.0\
+ajp  lywmxm 0.0\
+hbgrprfwsht 0.0\
+lsnnjmddgcr 0.0\
+mtsiogkqzyf 0.0\
+pnsqmleexjd 0.0\
+fwbmcvoixyb 0.0\
+taheqtidaqp 0.0\
+xnrdpgjlbro 0.0\
+lmqupnpugcz 0.0\
+xoveasubalj 0.0\
+bbmwenkjxol 0.0\
+xlbdocptlug 0.0\
+khsrlggqhnc 0.0\
+q wsziiocay 0.0\
+zqbotwzihpq 0.0\
+nwjnzoefldi 0.0\
+m mhowdcwyb 0.0\
+mglculjruvj 0.0\
+tonfnibdzvb 0.0\
+syv lcgxuw  0.0\
+wchxeikysar 0.0\
+cvtrqtaerkj 0.0\
+gdfxeplartt 0.0\
+rjhovzy njh 0.0\
+kksjwrcnabv 0.0\
+evlgxibdobs 0.0\
+syfpwrkf  q 0.0\
+zkfkwvlczkd 0.0\
+ahcrlpmhncr 0.0\
+jplobrba hh 0.0\
+onv qyjogcp 0.0\
+yq ll iwwwj 0.0\
+hizaettuetb 0.0\
+mhonrip oud 0.0\
+jawqcrch na 0.0\
+sepszmnqunw 0.0\
+jvh rvwitec 0.0\
+jgogylmuysa 0.0\
+erhmzbivxsn 0.0\
+ if jetgatc 0.0\
+unidtyinpqg 0.0\
+royqromjnmq 0.0\
+gltahckzosy 0.0\
+mhegjii t o 0.0\
+onv qyjogna 0.09090909090909091\
+cmyymgeekad 0.09090909090909091\
+qpxxtzlfrrr 0.09090909090909091\
+adxxlhlfrrr 0.09090909090909091\
+cyvrqaaxrwj 0.09090909090909091\
+pnp  lywxxd 0.09090909090909091\
+adcxlpmarct 0.09090909090909091\
+rnnvmceenjd 0.09090909090909091\
+adcxlplarcr 0.09090909090909091\
+c rhnyupewk 0.09090909090909091\
+pibnfuoqglc 0.09090909090909091\
+vymfffewkgi 0.09090909090909091\
+czyyiuqskto 0.09090909090909091\
+tehhsqlhvap 0.09090909090909091\
+ghqupeklzfx 0.09090909090909091\
+km cxmrsyva 0.09090909090909091\
+qyh tzjniou 0.09090909090909091\
+kjqpjjgaujk 0.09090909090909091\
+lmudhmzrbkr 0.09090909090909091\
+cctrodwimia 0.09090909090909091\
+wmovmsdmdwi 0.09090909090909091\
+alkyqvkjikf 0.09090909090909091\
+iijsxbptcvz 0.09090909090909091\
+hlgqxguuxxy 0.09090909090909091\
+j kcfeecngc 0.09090909090909091\
+yanvlcpuvur 0.09090909090909091\
+ de nirnaya 0.09090909090909091\
+bxjgsdirtiy 0.09090909090909091\
+lrxx hyffrn 0.09090909090909091\
+wdqrcyzmhax 0.09090909090909091\
+qctqlbvc  q 0.09090909090909091\
+qdscuwtsvni 0.09090909090909091\
+yakyrnfiswk 0.09090909090909091\
+wmjgzabzzra 0.09090909090909091\
+spaomspie w 0.09090909090909091\
+uk korxozef 0.09090909090909091\
+kqsll gwwnc 0.18181818181818182\
+h wrpifopat 0.18181818181818182\
+ewpohpshskm 0.18181818181818182\
+umqrcppjqss 0.18181818181818182\
+ dx thiqsxo 0.18181818181818182\
+obgvqospa s 0.18181818181818182\
+rzm expumay 0.18181818181818182\
+hy kofeoqei 0.2727272727272727\
+hk korxozef 0.2727272727272727\
+------\
+}
